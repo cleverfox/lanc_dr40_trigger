@@ -1,0 +1,8 @@
+*~
+*.swp
+*.d
+*.map
+*.o
+*.elf
+tags
+_nn
